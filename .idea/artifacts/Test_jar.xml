@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Test:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="Test.jar">
+      <element id="module-output" name="Test" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/jsch-0.1.51.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../DemoTest/src/test/jxl-2.6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
